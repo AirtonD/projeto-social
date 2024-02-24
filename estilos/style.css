@@ -10,7 +10,7 @@ body, html {
     width: 100vw;
 }
 body{
-    background: url(../imagens/fundo-de-ficcao-cientifica-futurista-moderno.jpg) no-repeat top center;
+    background: url(../imagens/fundo.jpg);
     background-size: cover;
     background-attachment: fixed;
 
@@ -20,8 +20,8 @@ main {
     position: relative;
 }
 #telefone {
-    height: 617px;
-    width: 311px;
+    height: 523px;
+    width: 251px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -30,10 +30,11 @@ main {
 }
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 472px;
-    width: 268px;
+    top: 7px;
+    left: 7px;
+    height: 510px;
+    width: 237px;
+    border-radius: 30px;
     
 }
 section#redes-sociais img {
